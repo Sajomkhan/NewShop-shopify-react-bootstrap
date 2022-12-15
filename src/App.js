@@ -1,5 +1,7 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "./App.css";
 
 // import Header from './components/Header.jsx'
 // import Footer from './components/Footer.jsx'
@@ -11,9 +13,6 @@ import Posts from './Pages/Posts.jsx'
 import Products from './Pages/Products.jsx'
 import SingleProduct from './Pages/SingleProduct.jsx'
 import Error from './Pages/Error.jsx'
-
-import 'bootstrap/dist/css/bootstrap.min.css';
-import "./App.css";
 
 const App = () => {
   return (
