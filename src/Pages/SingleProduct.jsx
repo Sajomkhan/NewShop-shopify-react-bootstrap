@@ -40,7 +40,7 @@ const SingleProduct = () => {
       </div>
       <div className="container content">
         <div className="row">
-          <div className="col-lg-5">
+          <div className="col-lg-6">
             <img src={image} alt="img-fluid" />
           </div>
           <div className="col-lg-5">
