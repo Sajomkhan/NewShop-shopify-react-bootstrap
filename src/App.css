@@ -157,11 +157,10 @@ main .pg-header {
     color: #0a58ca;
 }
 
-.single .con
-
-.single .col-lg-5 .img {
-    width: 300px;
+.single img {
+    width: 580px;
     height: auto;
+    border-radius: 10px;
 }
 
 /* POSTS ////////////////////////////////////////////  */
